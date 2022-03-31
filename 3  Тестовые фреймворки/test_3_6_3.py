@@ -29,12 +29,5 @@ class Test:
         time.sleep(8) 
         welcome_text = browser.find_element_by_css_selector(".smart-hints__hint")
         assert "Correct!" in welcome_text.text
-        #browser.find_element(By.CLASS_NAME, 'ember-text-area.ember-view.textarea.string-quiz__textarea').send_keys(answer)
-
-        #browser.find_element(By.CLASS_NAME, 'submit-submission').click()
-
-        #welcome_text = browser.find_element(By.CLASS_NAME, "smart-hints__hint")
-        # с помощью assert проверяем, что ожидаемый текст совпадает с текстом на странице сайта
-        #assert "Correct!" in welcome_text.text
-        #time.sleep(5)
+       
         # ОТВЕТ "The owls are not what they seem! OvO"
