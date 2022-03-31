@@ -9,3 +9,30 @@ JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: Reference
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1648723222680	geckodriver	INFO	Listening on 127.0.0.1:59122
+1648723225745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Vitaliy\\AppData\\Local\\Temp\\rust_mozprofileIk4cyz"
+1648723226344	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vitaliy\\AppData\\Local\\Temp\\rust_mozprofileIk4cyz\\search.json.mozlz4", (void 0)))
+1648723227909	Marionette	INFO	Listening on port 59133
+1648723228426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1648723229740	Marionette	INFO	Stopped listening on port 59133
+1648738867125	geckodriver	INFO	Listening on 127.0.0.1:51329
+1648738870179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Vitaliy\\AppData\\Local\\Temp\\rust_mozprofileA2kfaM"
+1648738870706	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vitaliy\\AppData\\Local\\Temp\\rust_mozprofileA2kfaM\\search.json.mozlz4", (void 0)))
+1648738872634	Marionette	INFO	Listening on port 51342
+1648738872856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1648738885995	Marionette	INFO	Stopped listening on port 51342
+1648738904562	geckodriver	INFO	Listening on 127.0.0.1:51463
+1648738907661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Vitaliy\\AppData\\Local\\Temp\\rust_mozprofilejnxu4F"
+1648738908177	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vitaliy\\AppData\\Local\\Temp\\rust_mozprofilejnxu4F\\search.json.mozlz4", (void 0)))
+1648738910210	Marionette	INFO	Listening on port 51476
+1648738910351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/es/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1648738922593	Marionette	INFO	Stopped listening on port 51476
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
