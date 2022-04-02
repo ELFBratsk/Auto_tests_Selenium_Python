@@ -1,0 +1,1 @@
+This is my first repository that is being used as a storage for my automated tests. All the files here are updated on a regular basis. Wishing all the best, cheers!
