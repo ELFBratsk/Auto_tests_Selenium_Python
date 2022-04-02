@@ -1,0 +1,23 @@
+4.1 Что такое Page Object?
+
+Содержание урока:
+Задание: ООП
+Немного о Code Style
+Code Style: базовые принципы
+Code Style в автотестах
+Подготовка окружения
+Что такое Page Object? 
+Почему именно Page Object? 
+Задание: методы в Page Object
+Внимание!
+В этом модуле мы будем использовать подходы объектно-ориентированного программирования, так что если вы плохо знакомы с принципами ООП, то просим вас разобраться самостоятельно:
+
+https://stepik.org/lesson/24461/step/1?unit=6767
+
+https://tproger.ru/translations/oop-principles-cheatsheet/
+
+Page Objects Model:
+
+https://page-objects.readthedocs.io
+
+https://selenium-python.readthedocs.io/page-objects.html
