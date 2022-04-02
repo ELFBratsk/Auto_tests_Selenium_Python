@@ -36,3 +36,63 @@ JavaScript error: http://selenium1py.pythonanywhere.com/es/catalogue/coders-at-w
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1648881639993	geckodriver	INFO	Listening on 127.0.0.1:62264
+1648881643035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\99E7~1\\AppData\\Local\\Temp\\rust_mozprofile0JSATm"
+1648881644624	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u0439\\AppData\\Local\\Temp\\rust_mozprofile0JSATm\\search.json.mozlz4", (void 0)))
+1648881647348	Marionette	INFO	Listening on port 62273
+1648881647426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1648881659018	Marionette	INFO	Stopped listening on port 62273
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648881773431	geckodriver	INFO	Listening on 127.0.0.1:62378
+1648881776471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\99E7~1\\AppData\\Local\\Temp\\rust_mozprofileYhEMSA"
+1648881777113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u0439\\AppData\\Local\\Temp\\rust_mozprofileYhEMSA\\search.json.mozlz4", (void 0)))
+1648881780256	Marionette	INFO	Listening on port 62389
+1648881780342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/es/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1648881791950	Marionette	INFO	Stopped listening on port 62389
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648881805422	geckodriver	INFO	Listening on 127.0.0.1:62452
+1648881808468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\99E7~1\\AppData\\Local\\Temp\\rust_mozprofile45sDaG"
+1648881809079	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u0439\\AppData\\Local\\Temp\\rust_mozprofile45sDaG\\search.json.mozlz4", (void 0)))
+1648881811662	Marionette	INFO	Listening on port 62461
+1648881811733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/fr/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1648881824420	Marionette	INFO	Stopped listening on port 62461
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1648881829428	geckodriver	INFO	Listening on 127.0.0.1:62521
+1648881832488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\99E7~1\\AppData\\Local\\Temp\\rust_mozprofileKtWQp1"
+1648881833070	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u0439\\AppData\\Local\\Temp\\rust_mozprofileKtWQp1\\search.json.mozlz4", (void 0)))
+1648881835522	Marionette	INFO	Listening on port 62531
+1648881835754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/fr/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1648881847277	Marionette	INFO	Stopped listening on port 62531
+1648883042745	geckodriver	INFO	Listening on 127.0.0.1:63267
+1648883045830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\99E7~1\\AppData\\Local\\Temp\\rust_mozprofilegfcKze"
+1648883046439	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u0439\\AppData\\Local\\Temp\\rust_mozprofilegfcKze\\search.json.mozlz4", (void 0)))
+1648883049073	Marionette	INFO	Listening on port 63276
+1648883049199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/fr/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1648883061027	Marionette	INFO	Stopped listening on port 63276
+1648883098051	geckodriver	INFO	Listening on 127.0.0.1:63355
+1648883101112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\99E7~1\\AppData\\Local\\Temp\\rust_mozprofileFpLAyD"
+1648883101773	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u0412\u0438\u0442\u0430\u043B\u0438\u0439\\AppData\\Local\\Temp\\rust_mozprofileFpLAyD\\search.json.mozlz4", (void 0)))
+1648883104331	Marionette	INFO	Listening on port 63364
+1648883104385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/fr/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1648883115931	Marionette	INFO	Stopped listening on port 63364
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
